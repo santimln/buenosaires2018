@@ -27,3 +27,5 @@ Workshop for Buenos Aires on 11 May 2018.
 ### 5. Interactive session with GitHub Desktop
 
 - Open GitHub Desktop and follow along with the class!
+
+### Santiago y Carolina son los mejores
